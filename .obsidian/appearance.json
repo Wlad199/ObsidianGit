@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Red Graphite",
+  "accentColor": "#d1ca00",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "myTheme"
+  ],
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "showRibbon": true
+}
