@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d53f2b79e715ef0",
+            "id": "90ea7f0633f7a0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/typescript.md",
+                "file": "z-other/obsidian/obsidian Sync.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "typescript"
-            }
-          },
-          {
-            "id": "449211e5e4b0cb4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bible"
+              "title": "obsidian Sync"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react",
+                "query": "tag:#obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible.md",
+                "file": "z-other/obsidian/obsidian Sync.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Bible"
+              "title": "Структура obsidian Sync"
             }
           },
           {
@@ -219,12 +204,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "449211e5e4b0cb4b",
+  "active": "90ea7f0633f7a0d4",
   "lastOpenFiles": [
+    "z-other/obsidian/obsidian styles.md",
+    "z-other/obsidian/obsidian Sync.md",
+    "Bible.md",
     "$$$ Draft.md",
     "test.md",
-    "Без названия.md",
-    "Bible.md",
     "~syncthing~$$$ Draft.md.tmp",
     "~syncthing~Bible.md.tmp",
     "Smartphone/pharmacy.md",
@@ -258,7 +244,6 @@
     "Smartphone/Programming/Vue/emit.md",
     "Smartphone/Programming/Vue/store.md",
     "Smartphone/Programming/Vue/axios request.md",
-    "Smartphone/Programming/Vue/vuex.md",
     "PC-199/z-other/_images/button01.jpg",
     "z-other/_images/buton02.jpg",
     "z-other/Без названия.canvas",
