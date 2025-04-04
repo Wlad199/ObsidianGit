@@ -26,5 +26,6 @@
   "strictLineBreaks": false,
   "foldIndent": true,
   "showLineNumber": true,
+  "showRibbon": true,
   "showInlineTitle": true
 }

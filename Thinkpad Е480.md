@@ -1,1 +1,0 @@
-[Thinkpad Е480 ](https://www.youtube.com/watch?v=IDkoD0iF-Xs)

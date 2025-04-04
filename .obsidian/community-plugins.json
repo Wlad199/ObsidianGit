@@ -1,4 +1,5 @@
 [
+  "obsidian-git",
   "calendar",
   "obsidian-icon-folder",
   "table-editor-obsidian",
@@ -10,6 +11,5 @@
   "file-explorer-note-count",
   "file-explorer-plus",
   "omnisearch",
-  "cmdr",
-  "obsidian-git"
+  "cmdr"
 ]

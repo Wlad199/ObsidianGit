@@ -183,9 +183,11 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-s
 		background-color: #6666ff;
 	}
 }
+/* recent files */
 
-
-
+div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split > div:nth-child(5) > div.workspace-tab-header-container{
+	display: none;
+}
 
 
 
